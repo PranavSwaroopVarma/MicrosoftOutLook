@@ -1,0 +1,25 @@
+.account{
+    display:flex;
+}
+.form{
+    width:45%;
+    margin: auto;
+    box-shadow: 2px 2px 10px 1px rgb(211, 209, 209);
+}
+.form input{
+    border-bottom: 1px solid gray;
+}
+.form button{
+    width:100px;
+    height:40px;
+
+}
+p{
+    color:rgb(73, 186, 230);
+    font-size: 17px;
+}
+@media(max-width:992px){
+    .form{
+        width:100%;
+    }
+}
