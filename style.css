@@ -1,3 +1,15 @@
+@media(max-width:576px){
+    .microsoftImg{
+        width:180px
+    }
+    .outLookImg{
+        display: none;
+    }
+    body{
+        margin: 0%;
+        overflow-x: hidden;
+    }
+}
 * h3{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 32px;
